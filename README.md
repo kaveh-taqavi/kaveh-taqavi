@@ -2,7 +2,7 @@
 - 👀 I’m interested in python  
 - 🌱 I’m currently learning django
 - 📫 HowToReachMe ={
-- gmail : "amirrezataqavi2003@gmail.com",
-- telegram : "amir_tqv",
-- instagram : "amir_tqv"
+- gmail : "kavehtaqavi2003@gmail.com",
+- telegram : "kaveh_taqavi",
+- instagram : "kaveh_taqavi"
 - }
